@@ -1,4 +1,4 @@
-QuestReaderSoundLengths_Pack_WrathoftheLichKing = {
+SpeakStoneSoundLengths_Pack_WrathoftheLichKing = {
     ["10000_completion.ogg"] = 16.77,
     ["10000_description.ogg"] = 31.51,
     ["10002_completion.ogg"] = 10.47,
